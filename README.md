@@ -65,10 +65,11 @@ The processed data was then exported to Excel, where Pivot Tables were used to s
 
 #### Key Visuals :
 
-<img width="568" height="685" alt="image" src="https://github.com/user-attachments/assets/c954b59f-955e-4457-912c-9bc032858cd2" />
+<img width="468" height="585" alt="image" src="https://github.com/user-attachments/assets/c954b59f-955e-4457-912c-9bc032858cd2" />
 
 
-Full detailed pivot tables are available in the Excel results file included in the repository
+
+##### Full detailed pivot tables are available in the Excel results file included in the repository
 
 
 ## Executive Summary :
